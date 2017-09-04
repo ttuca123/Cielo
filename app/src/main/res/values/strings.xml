@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mercadinho - Cielo</string>
+    <string name="filtro">Filtrar</string>
+    <string name="sobre">Sobre</string>
+    <string name="cliente_id">qcouq5XrY2So</string>
+    <string name="token">uEMpKNFQC4p3</string>
+    <string name="title_pagamento_list">Pagamentos</string>
+    <string name="title_pagamento_detail">Pagamento Detail</string>
+
+</resources>
